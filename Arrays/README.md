@@ -10,7 +10,7 @@ Let's check if you want to learn too !
 
 |Problem's name| Description|
 | ------ | ----- |
-|1 - String reverse|Given a String S , print the reverse of the string as output.
+|1 - String reverse | Given a String S , print the reverse of the string as output.
 **Input:** S = "GeeksforGeeks"
 **Output:** "skeeGrofskeeG"
 **Explanation:** Element at first is at last and last is at first, second is at second last and second last is at second position and so on .|
